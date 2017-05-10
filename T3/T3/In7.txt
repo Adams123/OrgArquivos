@@ -1,0 +1,24 @@
+remover 08977308608
+remover 40647485818
+remover 68955215932
+remover 49994981625
+remover 87170604191
+remover 76653769755
+remover 74416410395
+remover 32078207195
+buscar universidade = CAASO
+buscar modalidade = Volei_Quadra e universidade = CAASO
+buscar modalidade = Basquete_Quadra ou universidade = UFSCar
+buscar universidade = UNIFEI
+buscar cpf = 29610422241
+buscar modalidade = xadrez e universidade = UNESP-RC
+buscar universidade = UNICAMP ou cpf = 20196212073
+buscar cpf = 20196212073 e universidade = UNIFESP
+buscar universidade = UNIFESP e modalidade = Basquete_Quadra
+buscar universidade = ITA e modalidade = xadrez
+dump data.db
+dump universidade.idx
+dump modalidade.idx
+dump modalidadeListaInvertida.idx
+dump universidadeListaInvertida.idx
+sair

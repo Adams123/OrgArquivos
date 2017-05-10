@@ -1,0 +1,24 @@
+08977308601 - Karina_Emboaba
+	Registro Academico: 6784034
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+08977308603 - Michele_Nahas
+	Registro Academico: 6784035
+	Universidade: CAASO
+	Modalidade: Xadrez
+08977308608 - Felipe_Duarte
+	Registro Academico: 6426831
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra
+08977308601 - Karina_Emboaba
+	Registro Academico: 6784034
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+08977308605 - Carolina_Tanimoto
+	Registro Academico: 6784653
+	Universidade: UFSCar
+	Modalidade: Volei_Quadra
+08977308608 - Felipe_Duarte
+	Registro Academico: 6426831
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra

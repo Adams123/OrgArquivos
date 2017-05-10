@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include "btree.h"
+
+int main(void) 
+{
+	open_initialize_file();
+	
+ 	insert(offset_root, 5);
+	printBTree();
+	insert(offset_root, 10);
+ 	printBTree();
+ 	insert(offset_root, 6);
+ 	printBTree();
+//  	insert(offset_root, 8);
+//  	printBTree();
+//  	insert(offset_root, 15);
+//  	printBTree();
+// 	
+// 	insert(offset_root, 15);
+// 	insert(offset_root, 11);
+// 	printBTree();
+// 
+// 	insert(offset_root, 12);
+// 	insert(offset_root, 30);
+// 	printBTree();
+// 	getchar();
+// 	printf("\n");
+	return 0;
+}

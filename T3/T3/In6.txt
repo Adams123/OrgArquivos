@@ -1,0 +1,11 @@
+buscar universidade = CAASO
+buscar modalidade = Volei_Quadra e universidade = CAASO
+buscar modalidade = Basquete_Quadra ou universidade = UFSCar
+buscar universidade = ITA
+buscar cpf = 29610422241
+buscar modalidade = xadrez e universidade = UNESP-RC
+buscar universidade = UNICAMP ou cpf = 20196212073
+buscar cpf = 20196212073 e universidade = UNIFESP
+buscar universidade = UNIFESP e modalidade = Basquete_Quadra
+buscar universidade = ITA e modalidade = xadrez
+sair

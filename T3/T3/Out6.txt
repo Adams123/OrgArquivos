@@ -1,0 +1,1068 @@
+00111376149 - ituriel
+	Registro Academico: 7371940
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra
+00482202483 - segadas
+	Registro Academico: 8408425
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+03466025800 - guararapes
+	Registro Academico: 5060837
+	Universidade: CAASO
+	Modalidade: Natacao_Borboleta
+04774304220 - alexis
+	Registro Academico: 7386610
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+05421216624 - beatto
+	Registro Academico: 5181668
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+06114976207 - colinot
+	Registro Academico: 2779981
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+08697313511 - euripedes
+	Registro Academico: 8563653
+	Universidade: CAASO
+	Modalidade: Atletismo_Saltos
+09524797534 - odin
+	Registro Academico: 5933709
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+12065194448 - hermione
+	Registro Academico: 8108129
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+12432732324 - valentino
+	Registro Academico: 7880146
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+15133948271 - nice
+	Registro Academico: 6090702
+	Universidade: CAASO
+	Modalidade: Futebol_Campo
+15266573414 - demostenes
+	Registro Academico: 9671552
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+15469175600 - larissa
+	Registro Academico: 5098825
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+16012498969 - silvano
+	Registro Academico: 4257020
+	Universidade: CAASO
+	Modalidade: Natacao_Peito
+17140258023 - aniceto
+	Registro Academico: 6970513
+	Universidade: CAASO
+	Modalidade: Handball
+21599149168 - feronica
+	Registro Academico: 7587048
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+22291821881 - pitangui
+	Registro Academico: 1558885
+	Universidade: CAASO
+	Modalidade: Natacao_Borboleta
+24578722945 - celico
+	Registro Academico: 7695235
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+24742639006 - sostenes
+	Registro Academico: 3968796
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+26485625240 - sandri
+	Registro Academico: 9133152
+	Universidade: CAASO
+	Modalidade: Tenis_Mesa
+27666582110 - silvano
+	Registro Academico: 0020047
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+28680584185 - simoes
+	Registro Academico: 1109566
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+28849834497 - esteves
+	Registro Academico: 1757624
+	Universidade: CAASO
+	Modalidade: Judo_100kg
+28889674482 - austregesilo
+	Registro Academico: 8230376
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+29579608504 - floriberto
+	Registro Academico: 5465077
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+29756463724 - valdir
+	Registro Academico: 7491706
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra
+31813892423 - amarilis
+	Registro Academico: 1001330
+	Universidade: CAASO
+	Modalidade: Natacao_Borboleta
+33238067605 - edwino
+	Registro Academico: 3041359
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+36659203109 - larina
+	Registro Academico: 0189470
+	Universidade: CAASO
+	Modalidade: Judo_80kg
+37789646400 - lemuel
+	Registro Academico: 4209775
+	Universidade: CAASO
+	Modalidade: Judo_100kg
+38198156607 - evangelina
+	Registro Academico: 0440359
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+39070067803 - faruk
+	Registro Academico: 4019181
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+39196933887 - dionisio
+	Registro Academico: 5664004
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+40118578588 - ivani
+	Registro Academico: 6091249
+	Universidade: CAASO
+	Modalidade: Volei_Praia
+40622727508 - fabricio
+	Registro Academico: 9006202
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+43178463062 - gilberta
+	Registro Academico: 7006779
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+44307868870 - almiro
+	Registro Academico: 3149206
+	Universidade: CAASO
+	Modalidade: Futebol_Salao
+46922477545 - aide
+	Registro Academico: 8128936
+	Universidade: CAASO
+	Modalidade: Natacao_Peito
+47446396237 - remigio
+	Registro Academico: 0166185
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+50912747234 - faruk
+	Registro Academico: 4203040
+	Universidade: CAASO
+	Modalidade: Atletismo_Corridas
+53896922416 - bruno
+	Registro Academico: 5192261
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+54975442663 - dino
+	Registro Academico: 9748204
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+56004032085 - dimas
+	Registro Academico: 6992354
+	Universidade: CAASO
+	Modalidade: Tenis_Mesa
+57913474998 - fridolino
+	Registro Academico: 4685985
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+59836471561 - caterina
+	Registro Academico: 4420000
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+60431553386 - clarindo
+	Registro Academico: 5493858
+	Universidade: CAASO
+	Modalidade: Futebol_Campo
+60887508391 - oliveira
+	Registro Academico: 6430106
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+61340968223 - mariz
+	Registro Academico: 4230507
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+61594909156 - lameira
+	Registro Academico: 7115977
+	Universidade: CAASO
+	Modalidade: Judo_100kg
+62981992414 - casina
+	Registro Academico: 6345512
+	Universidade: CAASO
+	Modalidade: Natacao_Costas
+64214763335 - nilson
+	Registro Academico: 0392334
+	Universidade: CAASO
+	Modalidade: Judo_100kg
+66006265265 - alina
+	Registro Academico: 1420103
+	Universidade: CAASO
+	Modalidade: Xadrez
+68271849271 - roland
+	Registro Academico: 1550835
+	Universidade: CAASO
+	Modalidade: Atletismo_Saltos
+69143676987 - neon
+	Registro Academico: 6090766
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+69257058751 - pantoja
+	Registro Academico: 2226377
+	Universidade: CAASO
+	Modalidade: Handball
+70430239980 - heracles
+	Registro Academico: 1554502
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+74416410395 - gualter
+	Registro Academico: 1574865
+	Universidade: CAASO
+	Modalidade: Judo_+100kg
+74771821909 - ednare
+	Registro Academico: 7723424
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+75752286670 - azambuja
+	Registro Academico: 0912694
+	Universidade: CAASO
+	Modalidade: Natacao_Livre
+78178913976 - bolque
+	Registro Academico: 8206568
+	Universidade: CAASO
+	Modalidade: Tenis_Quadra
+78350479850 - oriana
+	Registro Academico: 2085556
+	Universidade: CAASO
+	Modalidade: Atletismo_Saltos
+79059766881 - trindade
+	Registro Academico: 8929546
+	Universidade: CAASO
+	Modalidade: Atletismo_Maratona
+79634831338 - domiciano
+	Registro Academico: 3171353
+	Universidade: CAASO
+	Modalidade: Futebol_Salao
+80152071695 - catia
+	Registro Academico: 9535110
+	Universidade: CAASO
+	Modalidade: Futebol_Salao
+81093026456 - benvinda
+	Registro Academico: 8670819
+	Universidade: CAASO
+	Modalidade: Judo_80kg
+81166931315 - ascendino
+	Registro Academico: 0916340
+	Universidade: CAASO
+	Modalidade: Futebol_Salao
+81374823007 - noel
+	Registro Academico: 4516463
+	Universidade: CAASO
+	Modalidade: Judo_100kg
+83643931468 - mazzoli
+	Registro Academico: 3295011
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+87519994635 - itaipu
+	Registro Academico: 5194418
+	Universidade: CAASO
+	Modalidade: Futebol_Salao
+87560469604 - agricola
+	Registro Academico: 9685987
+	Universidade: CAASO
+	Modalidade: Basquete_Streetball
+89044994450 - aristofilo
+	Registro Academico: 1650158
+	Universidade: CAASO
+	Modalidade: Natacao_Medley
+90964276020 - justa
+	Registro Academico: 5190030
+	Universidade: CAASO
+	Modalidade: Xadrez
+92242132601 - dafne
+	Registro Academico: 5447325
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+97350419449 - cornelia
+	Registro Academico: 4364227
+	Universidade: CAASO
+	Modalidade: Judo_60kg
+97538831886 - gesteira
+	Registro Academico: 6433386
+	Universidade: CAASO
+	Modalidade: Handball
+99108782830 - indaia
+	Registro Academico: 2274435
+	Universidade: CAASO
+	Modalidade: Basquete_Streetball
+06114976207 - colinot
+	Registro Academico: 2779981
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+54975442663 - dino
+	Registro Academico: 9748204
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+69143676987 - neon
+	Registro Academico: 6090766
+	Universidade: CAASO
+	Modalidade: Volei_Quadra
+00111376149 - ituriel
+	Registro Academico: 7371940
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra
+01389589129 - winston
+	Registro Academico: 7365640
+	Universidade: UFSCar
+	Modalidade: Natacao_Costas
+02576919871 - matatias
+	Registro Academico: 6511485
+	Universidade: UFSCar
+	Modalidade: Handball
+02916382879 - nilo
+	Registro Academico: 9203477
+	Universidade: UFSCar
+	Modalidade: Judo_60kg
+02957422166 - odilio
+	Registro Academico: 6117806
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+05261178851 - mary
+	Registro Academico: 7749002
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra
+06625005630 - herbert
+	Registro Academico: 8163311
+	Universidade: UFSCar
+	Modalidade: Volei_Quadra
+07365483512 - gliceria
+	Registro Academico: 6167467
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+08241552700 - teodoro
+	Registro Academico: 4490982
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+08263659302 - jamila
+	Registro Academico: 0685692
+	Universidade: UFSCar
+	Modalidade: Judo_+100kg
+10585507309 - carmen
+	Registro Academico: 2307776
+	Universidade: UFABC
+	Modalidade: Basquete_Quadra
+11119367220 - auspicio
+	Registro Academico: 4191550
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra
+11913874966 - manhumirim
+	Registro Academico: 1387938
+	Universidade: UNIFEI
+	Modalidade: Basquete_Quadra
+12931947865 - dalla_dea
+	Registro Academico: 5036106
+	Universidade: UFSCar
+	Modalidade: Atletismo_Corridas
+13395324842 - vinicios
+	Registro Academico: 5926756
+	Universidade: UFSCar
+	Modalidade: Natacao_Medley
+18989654394 - elmano
+	Registro Academico: 3618458
+	Universidade: UFSCar
+	Modalidade: Futebol_Salao
+20507271432 - nisa
+	Registro Academico: 4352904
+	Universidade: UFSCar
+	Modalidade: Natacao_Peito
+21256588954 - salustio
+	Registro Academico: 3470110
+	Universidade: UFSCar
+	Modalidade: Basquete_Streetball
+21471313859 - tristao
+	Registro Academico: 5708845
+	Universidade: UFSCar
+	Modalidade: Atletismo_Lancamentos
+21840467282 - oliverio
+	Registro Academico: 2762050
+	Universidade: UFSCar
+	Modalidade: Natacao_Medley
+22190128323 - westemberg
+	Registro Academico: 9834874
+	Universidade: UFSCar
+	Modalidade: Basquete_Streetball
+22247985475 - gedeao
+	Registro Academico: 8600643
+	Universidade: UFSCar
+	Modalidade: Tenis_Mesa
+23975142812 - cristiana
+	Registro Academico: 8299919
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+24396467419 - itacotiara
+	Registro Academico: 2996787
+	Universidade: UFSCar
+	Modalidade: Futebol_Salao
+24868056999 - collin
+	Registro Academico: 6054629
+	Universidade: UNESP-RC
+	Modalidade: Basquete_Quadra
+25373551805 - dione
+	Registro Academico: 7682477
+	Universidade: UFSCar
+	Modalidade: Judo_+100kg
+26832362803 - sabiniano
+	Registro Academico: 4213849
+	Universidade: UFSCar
+	Modalidade: Xadrez
+27425244365 - vita
+	Registro Academico: 6089223
+	Universidade: UFSCar
+	Modalidade: Basquete_Quadra
+27960823936 - liliosa
+	Registro Academico: 1285352
+	Universidade: UFSCar
+	Modalidade: Basquete_Streetball
+28308669751 - flora
+	Registro Academico: 9371235
+	Universidade: UFSCar
+	Modalidade: Tenis_Quadra
+28451323600 - rubem
+	Registro Academico: 5577351
+	Universidade: UFSCar
+	Modalidade: Atletismo_Maratona
+29610422241 - epiteto
+	Registro Academico: 5529028
+	Universidade: UFSCar
+	Modalidade: Judo_80kg
+29756463724 - valdir
+	Registro Academico: 7491706
+	Universidade: CAASO
+	Modalidade: Basquete_Quadra
+33803715130 - meredite
+	Registro Academico: 2132745
+	Universidade: UFSCar
+	Modalidade: Judo_60kg
+35756275762 - jader
+	Registro Academico: 5386347
+	Universidade: UFSCar
+	Modalidade: Futebol_Campo
+36415263706 - isaac
+	Registro Academico: 3044578
+	Universidade: UFABC
+	Modalidade: Basquete_Quadra
+37139642036 - horta
+	Registro Academico: 9574649
+	Universidade: UFSCar
+	Modalidade: Volei_Quadra
+37455749155 - arco_e_flexa
+	Registro Academico: 9490511
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra
+40623217180 - tristao
+	Registro Academico: 9906451
+	Universidade: UFSCar
+	Modalidade: Natacao_Borboleta
+40768980011 - licaon
+	Registro Academico: 6473132
+	Universidade: UNIFEI
+	Modalidade: Basquete_Quadra
+42081854902 - crescencia
+	Registro Academico: 0236991
+	Universidade: UFSCar
+	Modalidade: Natacao_Borboleta
+42943705306 - capitolino
+	Registro Academico: 3923477
+	Universidade: UFSCar
+	Modalidade: Futebol_Campo
+44325132686 - vitor
+	Registro Academico: 6968086
+	Universidade: UFSCar
+	Modalidade: Volei_Praia
+45100454172 - bonazza
+	Registro Academico: 0257727
+	Universidade: UFSCar
+	Modalidade: Tenis_Mesa
+45860295367 - odir
+	Registro Academico: 4358935
+	Universidade: UFSCar
+	Modalidade: Futebol_Campo
+49429382446 - fericides
+	Registro Academico: 4322474
+	Universidade: UFSCar
+	Modalidade: Natacao_Borboleta
+52672290679 - assuncao
+	Registro Academico: 0246096
+	Universidade: UFSCar
+	Modalidade: Judo_+100kg
+53983738460 - rosali
+	Registro Academico: 1021540
+	Universidade: UFSCar
+	Modalidade: Basquete_Streetball
+54092156723 - janie
+	Registro Academico: 2341291
+	Universidade: UFABC
+	Modalidade: Basquete_Quadra
+54738471708 - rolando
+	Registro Academico: 5019472
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+55468105136 - norton
+	Registro Academico: 9181097
+	Universidade: UFSCar
+	Modalidade: Atletismo_Saltos
+55771104914 - pitangui
+	Registro Academico: 2846004
+	Universidade: UFSCar
+	Modalidade: Atletismo_Corridas
+56920621355 - abraao
+	Registro Academico: 8231257
+	Universidade: UFSCar
+	Modalidade: Natacao_Borboleta
+59785338304 - mansur
+	Registro Academico: 9378741
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+61792377860 - godiva
+	Registro Academico: 3557843
+	Universidade: UNESP-RC
+	Modalidade: Basquete_Quadra
+61879202360 - dario
+	Registro Academico: 5922897
+	Universidade: UFSCar
+	Modalidade: Natacao_Costas
+62975902220 - nestor
+	Registro Academico: 2054502
+	Universidade: UFSCar
+	Modalidade: Judo_80kg
+63145120778 - touro
+	Registro Academico: 2445395
+	Universidade: UFSCar
+	Modalidade: Xadrez
+64850159737 - ajuricaba
+	Registro Academico: 6289502
+	Universidade: UFSCar
+	Modalidade: Futebol_Campo
+67171868010 - estela
+	Registro Academico: 8669618
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+68246534700 - melito
+	Registro Academico: 7140483
+	Universidade: UFSCar
+	Modalidade: Volei_Quadra
+70841850461 - isauro
+	Registro Academico: 0069621
+	Universidade: UFSCar
+	Modalidade: Xadrez
+71327197006 - emerenciana
+	Registro Academico: 2676743
+	Universidade: UFSCar
+	Modalidade: Judo_80kg
+77011719679 - folco
+	Registro Academico: 4063995
+	Universidade: UFSCar
+	Modalidade: Judo_+100kg
+77746239498 - lupiano
+	Registro Academico: 6982126
+	Universidade: UFSCar
+	Modalidade: Atletismo_Lancamentos
+85056673447 - laudemir
+	Registro Academico: 8081535
+	Universidade: UFSCar
+	Modalidade: Natacao_Peito
+88897764398 - micaela
+	Registro Academico: 3092540
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+91839575964 - agricola
+	Registro Academico: 6299741
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+92740384459 - haneiko
+	Registro Academico: 5387227
+	Universidade: UNESP-RC
+	Modalidade: Basquete_Quadra
+93042020606 - prata
+	Registro Academico: 3753888
+	Universidade: UFSCar
+	Modalidade: Natacao_Borboleta
+93888791634 - hermann
+	Registro Academico: 8092939
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+94164354810 - amin
+	Registro Academico: 3350145
+	Universidade: UFSCar
+	Modalidade: Tenis_Mesa
+96288757012 - maria
+	Registro Academico: 2913813
+	Universidade: UFSCar
+	Modalidade: Atletismo_Corridas
+98141533118 - almerindo
+	Registro Academico: 3913802
+	Universidade: UFSCar
+	Modalidade: Futebol_Salao
+98174298576 - antemio
+	Registro Academico: 2207156
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+99451037845 - mayte
+	Registro Academico: 6046760
+	Universidade: UFSCar
+	Modalidade: Judo_100kg
+01506979297 - neila
+	Registro Academico: 9989363
+	Universidade: ITA
+	Modalidade: Judo_80kg
+04249015017 - segundino
+	Registro Academico: 1944214
+	Universidade: ITA
+	Modalidade: Basquete_Streetball
+06155476560 - roberta
+	Registro Academico: 9374525
+	Universidade: ITA
+	Modalidade: Volei_Praia
+08041135994 - pium_i
+	Registro Academico: 4150835
+	Universidade: ITA
+	Modalidade: Judo_80kg
+08101189394 - barcelos
+	Registro Academico: 5167976
+	Universidade: ITA
+	Modalidade: Tenis_Mesa
+10411047906 - gualberto
+	Registro Academico: 6955534
+	Universidade: ITA
+	Modalidade: Atletismo_Saltos
+12018384104 - braga
+	Registro Academico: 8762343
+	Universidade: ITA
+	Modalidade: Natacao_Peito
+12813876739 - anteu
+	Registro Academico: 7760125
+	Universidade: ITA
+	Modalidade: Basquete_Streetball
+14536327002 - edison
+	Registro Academico: 4818629
+	Universidade: ITA
+	Modalidade: Natacao_Costas
+16066216880 - pizzani
+	Registro Academico: 9697692
+	Universidade: ITA
+	Modalidade: Basquete_Streetball
+17389999802 - aracy
+	Registro Academico: 3886688
+	Universidade: ITA
+	Modalidade: Atletismo_Lancamentos
+18386080795 - rufina
+	Registro Academico: 6556935
+	Universidade: ITA
+	Modalidade: Volei_Quadra
+19958380471 - elias
+	Registro Academico: 4145430
+	Universidade: ITA
+	Modalidade: Atletismo_Corridas
+20953877590 - epifania
+	Registro Academico: 1447471
+	Universidade: ITA
+	Modalidade: Judo_80kg
+21013776321 - povoa
+	Registro Academico: 1041186
+	Universidade: ITA
+	Modalidade: Futebol_Campo
+21056854715 - saturnino
+	Registro Academico: 0306365
+	Universidade: ITA
+	Modalidade: Futebol_Salao
+21509040129 - pelegrino
+	Registro Academico: 7411303
+	Universidade: ITA
+	Modalidade: Judo_60kg
+23980315789 - marcelino
+	Registro Academico: 7098031
+	Universidade: ITA
+	Modalidade: Atletismo_Lancamentos
+24027201663 - joatan
+	Registro Academico: 9499694
+	Universidade: ITA
+	Modalidade: Futebol_Salao
+24685231562 - irineu
+	Registro Academico: 8204206
+	Universidade: ITA
+	Modalidade: Natacao_Borboleta
+28895052439 - teobaldo
+	Registro Academico: 4563488
+	Universidade: ITA
+	Modalidade: Futebol_Campo
+42890442802 - menelau
+	Registro Academico: 7203402
+	Universidade: ITA
+	Modalidade: Natacao_Costas
+44966419840 - lineu
+	Registro Academico: 4905501
+	Universidade: ITA
+	Modalidade: Futebol_Salao
+45355425976 - parsifal
+	Registro Academico: 0405350
+	Universidade: ITA
+	Modalidade: Futebol_Campo
+46383116100 - arminio
+	Registro Academico: 2154170
+	Universidade: ITA
+	Modalidade: Volei_Quadra
+46473277013 - colinot
+	Registro Academico: 9507589
+	Universidade: ITA
+	Modalidade: Judo_100kg
+47240629910 - silvester
+	Registro Academico: 8131103
+	Universidade: ITA
+	Modalidade: Judo_+100kg
+48835247446 - martiniano
+	Registro Academico: 5657697
+	Universidade: ITA
+	Modalidade: Judo_+100kg
+49377156904 - vinola
+	Registro Academico: 8078655
+	Universidade: ITA
+	Modalidade: Judo_+100kg
+53941541552 - aime
+	Registro Academico: 4983852
+	Universidade: ITA
+	Modalidade: Natacao_Medley
+53963281260 - israfil
+	Registro Academico: 3587391
+	Universidade: ITA
+	Modalidade: Atletismo_Lancamentos
+55026320163 - gelasia
+	Registro Academico: 0326466
+	Universidade: ITA
+	Modalidade: Natacao_Borboleta
+55893966465 - leopoldina
+	Registro Academico: 5076681
+	Universidade: ITA
+	Modalidade: Volei_Praia
+58288307329 - presley
+	Registro Academico: 0336214
+	Universidade: ITA
+	Modalidade: Futebol_Campo
+59152657582 - tina
+	Registro Academico: 1201333
+	Universidade: ITA
+	Modalidade: Futebol_Campo
+61379586712 - onesimo
+	Registro Academico: 5777208
+	Universidade: ITA
+	Modalidade: Handball
+61523079533 - tiberio
+	Registro Academico: 0460694
+	Universidade: ITA
+	Modalidade: Handball
+62715884508 - leoncio
+	Registro Academico: 5684883
+	Universidade: ITA
+	Modalidade: Judo_+100kg
+64130703072 - ieda
+	Registro Academico: 7321081
+	Universidade: ITA
+	Modalidade: Natacao_Medley
+65240068526 - inari
+	Registro Academico: 9468323
+	Universidade: ITA
+	Modalidade: Natacao_Peito
+66850976044 - sueli
+	Registro Academico: 0994872
+	Universidade: ITA
+	Modalidade: Atletismo_Lancamentos
+69987736505 - cristina
+	Registro Academico: 8406496
+	Universidade: ITA
+	Modalidade: Tenis_Quadra
+73323861604 - anastacio
+	Registro Academico: 9191509
+	Universidade: ITA
+	Modalidade: Xadrez
+73549849303 - rodolfo
+	Registro Academico: 4948933
+	Universidade: ITA
+	Modalidade: Natacao_Costas
+80143594370 - josue
+	Registro Academico: 5528318
+	Universidade: ITA
+	Modalidade: Atletismo_Lancamentos
+82138935493 - barro
+	Registro Academico: 2277914
+	Universidade: ITA
+	Modalidade: Basquete_Streetball
+83365308784 - quintino
+	Registro Academico: 6044657
+	Universidade: ITA
+	Modalidade: Atletismo_Corridas
+83905266466 - ajax
+	Registro Academico: 3604953
+	Universidade: ITA
+	Modalidade: Natacao_Peito
+89344618968 - lourenca
+	Registro Academico: 2056141
+	Universidade: ITA
+	Modalidade: Volei_Praia
+89560938657 - justina
+	Registro Academico: 0416839
+	Universidade: ITA
+	Modalidade: Atletismo_Saltos
+97682064382 - filetero
+	Registro Academico: 6904851
+	Universidade: ITA
+	Modalidade: Atletismo_Maratona
+98858437101 - jelson
+	Registro Academico: 8097993
+	Universidade: ITA
+	Modalidade: Judo_60kg
+29610422241 - epiteto
+	Registro Academico: 5529028
+	Universidade: UFSCar
+	Modalidade: Judo_80kg
+00868238503 - adamina
+	Registro Academico: 5926852
+	Universidade: UNICAMP
+	Modalidade: Natacao_Medley
+02957422166 - odilio
+	Registro Academico: 6117806
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+04085166239 - ulisses
+	Registro Academico: 9648081
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+05031801735 - damaso
+	Registro Academico: 1035948
+	Universidade: UNICAMP
+	Modalidade: Judo_+100kg
+05210206386 - odin
+	Registro Academico: 9484084
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Maratona
+07288891372 - pelotas
+	Registro Academico: 4419434
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Lancamentos
+07365483512 - gliceria
+	Registro Academico: 6167467
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+08241552700 - teodoro
+	Registro Academico: 4490982
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+10885649257 - atila
+	Registro Academico: 2722826
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+12626650510 - gelasia
+	Registro Academico: 3198776
+	Universidade: UNICAMP
+	Modalidade: Tenis_Quadra
+12884911669 - asteria
+	Registro Academico: 3516359
+	Universidade: UNICAMP
+	Modalidade: Natacao_Peito
+13442464943 - alcebiades
+	Registro Academico: 4257274
+	Universidade: UNICAMP
+	Modalidade: Tenis_Mesa
+18870527980 - furlanetti
+	Registro Academico: 9636846
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+20196212073 - adler
+	Registro Academico: 3119056
+	Universidade: UNIFESP
+	Modalidade: Judo_+100kg
+21051108519 - pinheiro
+	Registro Academico: 6462586
+	Universidade: UNICAMP
+	Modalidade: Basquete_Streetball
+23975142812 - cristiana
+	Registro Academico: 8299919
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+24170768299 - martim
+	Registro Academico: 6904836
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Corridas
+25237638341 - galvao
+	Registro Academico: 0949775
+	Universidade: UNICAMP
+	Modalidade: Futebol_Campo
+26820900449 - carmo
+	Registro Academico: 2062815
+	Universidade: UNICAMP
+	Modalidade: Handball
+29264696911 - edno
+	Registro Academico: 4095107
+	Universidade: UNICAMP
+	Modalidade: Natacao_Peito
+32074768133 - malaquias
+	Registro Academico: 9372706
+	Universidade: UNICAMP
+	Modalidade: Natacao_Costas
+36753562990 - edeltrudes
+	Registro Academico: 2709360
+	Universidade: UNICAMP
+	Modalidade: Natacao_Peito
+38113158111 - castor
+	Registro Academico: 3975449
+	Universidade: UNICAMP
+	Modalidade: Volei_Praia
+39314201678 - isleno
+	Registro Academico: 9508758
+	Universidade: UNICAMP
+	Modalidade: Natacao_Borboleta
+40647485818 - greta
+	Registro Academico: 6066462
+	Universidade: UNICAMP
+	Modalidade: Natacao_Borboleta
+43215267101 - gilson
+	Registro Academico: 3057695
+	Universidade: UNICAMP
+	Modalidade: Judo_+100kg
+43944060210 - vagner
+	Registro Academico: 8431119
+	Universidade: UNICAMP
+	Modalidade: Natacao_Borboleta
+44605539107 - aleixo
+	Registro Academico: 0496743
+	Universidade: UNICAMP
+	Modalidade: Natacao_Medley
+47631759634 - valfredo
+	Registro Academico: 1785741
+	Universidade: UNICAMP
+	Modalidade: Judo_80kg
+49041790560 - saiao
+	Registro Academico: 6610415
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+49994981625 - marciana
+	Registro Academico: 9334615
+	Universidade: UNICAMP
+	Modalidade: Basquete_Streetball
+53768136493 - fontainha
+	Registro Academico: 3585099
+	Universidade: UNICAMP
+	Modalidade: Natacao_Borboleta
+54738471708 - rolando
+	Registro Academico: 5019472
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+56373212998 - perlamagna
+	Registro Academico: 2628843
+	Universidade: UNICAMP
+	Modalidade: Natacao_Costas
+56549195632 - neiva
+	Registro Academico: 4184299
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Lancamentos
+61007231076 - jeova
+	Registro Academico: 4801873
+	Universidade: UNICAMP
+	Modalidade: Volei_Praia
+62048223303 - democrito
+	Registro Academico: 7245416
+	Universidade: UNICAMP
+	Modalidade: Natacao_Peito
+64666198695 - linda
+	Registro Academico: 3667307
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+65651495266 - kiliano
+	Registro Academico: 1700610
+	Universidade: UNICAMP
+	Modalidade: Natacao_Medley
+66045828682 - filipe
+	Registro Academico: 5340177
+	Universidade: UNICAMP
+	Modalidade: Judo_80kg
+68697268842 - magnolia
+	Registro Academico: 8816804
+	Universidade: UNICAMP
+	Modalidade: Futebol_Campo
+69777318006 - heli
+	Registro Academico: 1968234
+	Universidade: UNICAMP
+	Modalidade: Handball
+70882039369 - alfonso
+	Registro Academico: 2990069
+	Universidade: UNICAMP
+	Modalidade: Judo_60kg
+73255364701 - jessamine
+	Registro Academico: 4237007
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Saltos
+87039675307 - feio
+	Registro Academico: 4375686
+	Universidade: UNICAMP
+	Modalidade: Tenis_Mesa
+87114842848 - batistina
+	Registro Academico: 5250238
+	Universidade: UNICAMP
+	Modalidade: Natacao_Livre
+90513019952 - pizzani
+	Registro Academico: 0073976
+	Universidade: UNICAMP
+	Modalidade: Atletismo_Corridas
+91042740321 - waldemar
+	Registro Academico: 8037003
+	Universidade: UNICAMP
+	Modalidade: Xadrez
+91839575964 - agricola
+	Registro Academico: 6299741
+	Universidade: UNICAMP
+	Modalidade: Basquete_Quadra
+92903033790 - bartolomeu
+	Registro Academico: 4991942
+	Universidade: UNICAMP
+	Modalidade: Tenis_Mesa
+92920448501 - serafina
+	Registro Academico: 5752742
+	Universidade: UNICAMP
+	Modalidade: Futebol_Salao
+93832954309 - povoa
+	Registro Academico: 4955739
+	Universidade: UNICAMP
+	Modalidade: Natacao_Borboleta
+94406933395 - barroso
+	Registro Academico: 2797186
+	Universidade: UNICAMP
+	Modalidade: Judo_100kg
+96077286702 - fama
+	Registro Academico: 0087174
+	Universidade: UNICAMP
+	Modalidade: Judo_+100kg
+98670484820 - wilbur
+	Registro Academico: 6852199
+	Universidade: UNICAMP
+	Modalidade: Judo_+100kg
+20196212073 - adler
+	Registro Academico: 3119056
+	Universidade: UNIFESP
+	Modalidade: Judo_+100kg
+05261178851 - mary
+	Registro Academico: 7749002
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra
+11119367220 - auspicio
+	Registro Academico: 4191550
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra
+37455749155 - arco_e_flexa
+	Registro Academico: 9490511
+	Universidade: UNIFESP
+	Modalidade: Basquete_Quadra

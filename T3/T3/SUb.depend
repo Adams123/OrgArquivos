@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1372872381 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/bancoDeDados.c
+	"bancoDeDados.h"
+	"indicePrimario.h"
+
+1372873480 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/bancoDeDados.h
+	<stdlib.h>
+	<stdio.h>
+
+1372873927 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/indicePrimario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372872377 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/controler.c
+	"controler.h"
+
+1372873750 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/controler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bancoDeDados.h"
+	"indicePrimario.h"
+	"indiceSecundario.h"
+
+1372874002 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/indiceSecundario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controler.h"
+
+1372824753 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/indiceSecundario.c
+	"indiceSecundario.h"
+	"listaInvertida.h"
+
+1372874223 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/listaInvertida.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"indiceSecundario.h"
+
+1372819776 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/listaInvertida.c
+	"listaInvertida.h"
+
+1372826016 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controler.h"
+
+1372872445 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T3/SUb/indicePrimario.c
+	"indicePrimario.h"
+
+1372873134 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controler.h"
+
+1372873750 d:\dropbox\public\faculdade\org arquivos\t3\sub\controler.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bancoDeDados.h"
+	"indicePrimario.h"
+	"indiceSecundario.h"
+
+1372873480 d:\dropbox\public\faculdade\org arquivos\t3\sub\bancodedados.h
+	<stdlib.h>
+	<stdio.h>
+
+1372875242 d:\dropbox\public\faculdade\org arquivos\t3\sub\indiceprimario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372875374 d:\dropbox\public\faculdade\org arquivos\t3\sub\indicesecundario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controler.h"
+
+1372874242 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\bancodedados.c
+	"bancoDeDados.h"
+	"indicePrimario.h"
+
+1372876585 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\controler.c
+	"controler.h"
+
+1372876585 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\indiceprimario.c
+	"indicePrimario.h"
+
+1372876585 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\indicesecundario.c
+	"indiceSecundario.h"
+	"listaInvertida.h"
+
+1372874223 d:\dropbox\public\faculdade\org arquivos\t3\sub\listainvertida.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"indiceSecundario.h"
+
+1372876455 source:d:\dropbox\public\faculdade\org arquivos\t3\sub\listainvertida.c
+	"listaInvertida.h"
+

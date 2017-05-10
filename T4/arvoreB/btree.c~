@@ -1,0 +1,274 @@
+#include "btree.h"
+
+int search(const int offset, int pKey, int* offset_found, int* pos_found)
+{
+	int pos = 0;
+	if (offset == -1)return FAIL;
+	
+	page_tree * curr_page;
+	curr_page = loadPage(offset);
+	
+	if (pageSearch(curr_page, pKey, &pos) == SUCCESS)
+	{
+		*offset_found = offset;
+		*pos_found = pos;
+		free(curr_page);
+		return SUCCESS;
+	}
+	*offset_found = offset;
+	*pos_found = pos;
+	free(curr_page);
+	
+	return search(curr_page->child[pos], pKey, offset_found, pos_found);
+}
+
+page_tree* loadPage(int offset)
+{
+	page_tree* return_page;
+	fseek(bTreeFile, offset, SEEK_SET);
+	return_page = (page_tree*)malloc(sizeof(page_tree));
+	fread(return_page, sizeof(page_tree), 1, bTreeFile);
+	return return_page;
+}
+
+int pageSearch(const page_tree* curr_page, int pKey, int* pos)
+{
+	int i;
+	for (i = 0; i < curr_page->nKeys; i++)
+	{
+		if (pKey == curr_page->keys[i])
+		{
+			*pos = i;
+			return SUCCESS;
+		}
+		else if (pKey < curr_page->keys[i])
+		{
+			*pos = i;
+			return FAIL;
+		}
+	}
+	*pos = i;
+	return FAIL;	
+}
+
+int insert(int offset, int key) {
+     
+    int key_promoted = -1;
+    int return_value = -1;
+    int new_offset = -1;
+    int offset_child_right = -1;
+    page_tree *page;
+    
+    // verifica se eh necessario criar um novo no raiz
+    if ((return_value = insertKey(offset, key, &offset_child_right, &key_promoted)) == PROMOTED) {
+         // aloca nova pagina na ram
+	allocPage(&page); 
+	// insere chave na nova pagina criada (ainda na RAM)
+	pageInsert(page, key_promoted, offset_child_right);
+	// move o ponteiro para o final do arquivo para pegar a posicao da nova pagina
+	fseek(bTreeFile, 0L, SEEK_END);
+	new_offset = ftell(bTreeFile);
+	// salva a pagina no disco
+	savePage(new_offset, page);
+	update_root_offset(new_offset);
+        free(page);
+    }
+    
+    return return_value;
+}
+
+int insertKey(int offset, int key, int* child_right_promoted, int* key_promoted) 
+{
+    page_tree *curr_page; // pagina atual para busca
+    page_tree *new_page; // pagina para split
+    int pos = -1; // posicao em que a chave deveria ser inserida
+    
+    // trata o caso de arvore vazia
+    if (offset == NIL) {
+	*key_promoted = key;
+	*child_right_promoted = NIL;
+	return PROMOTED;
+    }
+    
+    curr_page = loadPage(offset); // carrega a pagina para inspecao
+    if (pageSearch(curr_page, key, &pos) == SUCCESS) {
+	  fprintf(stderr, "Chave ja existe na arvore\n\n");
+	  return ERROR;
+    }
+    
+    int return_value = -1;
+    int offset_child_promoted = -1;
+    int key_promotion = -1;
+    return_value = insertKey(curr_page->child[pos], key, &offset_child_promoted, &key_promotion);
+
+    // verifica se nao eh necessaria mais nenhuma operacao na arvore
+    // ou seja, a chave foi inserida mas nao ha promocao
+    // ou entao a chave ja existia e foi retornado um erro
+    if (return_value == NOT_PROMOTED || return_value == ERROR) {
+	return return_value;
+    }
+    
+    // verifica se a chave cabe na pagina atual
+    if (curr_page->nKeys < ORDER-1) {
+	pageInsert(curr_page, key_promotion, offset_child_promoted);
+	savePage(offset, curr_page);
+	return NOT_PROMOTED;
+    }
+    
+    // se a chave nao couber na pagina, realiza split
+//     split(key_promotion, offset_child_promoted, curr_page, key_promoted, child_right_promoted, &new_page);
+    savePage(offset, curr_page); // salva a pagina atual
+    savePage(*child_right_promoted, new_page); // salva a nova pagina apos split
+    
+    free(curr_page);
+    free(new_page);
+    
+    return PROMOTED;
+}
+
+void open_initialize_file() {
+    bTreeFile = fopen("data_btree.dat", "wb+");
+    int offset_root_new = -1;
+    fwrite(&offset_root_new, sizeof(int), 1, bTreeFile);
+    offset_root = -1;
+}
+
+void update_root_offset(int offset) {
+    fseek(bTreeFile, 0, SEEK_SET);
+    fwrite(&offset, sizeof(int), 1, bTreeFile);
+    offset_root = offset;
+}
+
+void savePage(const int offset, const page_tree * newpage) {
+    fseek(bTreeFile, offset, SEEK_SET);
+    fwrite(newpage, sizeof(page_tree), 1, bTreeFile);
+}
+
+
+void allocPage(page_tree **newpage) {
+    int i;
+    *newpage = (page_tree*) malloc(sizeof(page_tree));
+    for (i = 0; i < ORDER-1; i++) {
+	(*newpage)->keys[i] = NIL;
+	(*newpage)->child[i] = NIL;
+    }
+   (*newpage)->child[i] = NIL;
+   (*newpage)->nKeys = 0; // total de chaves
+}
+
+void resetPage(page_tree *page) {
+    int i;
+    for (i = 0; i < ORDER-1; i++) {
+	page->keys[i] = NIL;
+	page->child[i] = NIL;
+    }
+   page->child[i] = NIL;
+   page->nKeys = 0; // total de chaves
+}
+
+void pageInsert(page_tree *curr_page, int key, const int offset_right_child) {
+    
+    int i;
+    // se a pagina for nova, e estiver vazia
+    if (curr_page->nKeys == 0) {
+	curr_page->nKeys++;
+	curr_page->child[1] = offset_right_child;
+	curr_page->keys[0] = key;
+	return;
+    }
+  
+    // percorre a pagina do ultimo elemento para o primeiro
+    // copia os elementos maiores do que a chave para a direita
+    for (i = curr_page->nKeys-1; i >= 0; i--) {
+      
+	  if (curr_page->keys[i] > key) {
+	      // desloca chaves maiores e seus filhos para a direita
+	      curr_page->keys[i+1] = curr_page->keys[i];
+	      curr_page->child[i+2] = curr_page->child[i+1];
+	      
+	      if (i == 0) {
+		    curr_page->keys[i] = key;
+		    curr_page->child[1] = offset_right_child;
+		    curr_page->nKeys++;
+	      }
+	  } 
+	  else {
+	      curr_page->keys[i+1] = key;
+	      curr_page->child[i+2] = offset_right_child;
+              curr_page->nKeys++;
+	      break;
+	  }
+    }
+}
+ 
+void split(const int key_input, const int child_right_input, page_tree* page, int* key_promoted, int* child_promoted, page_tree** new_page) {
+  
+    // buffer de pagina para distribuicao dos elementos
+    page_tree_buffer buffer;
+    int i, j = 0;
+    int flag = 0;
+    
+    buffer.child[0] = page->child[0];
+    
+    for (i = 0; i < ORDER; i++) 
+    {
+	  if (i == ORDER-1 && flag ==0) {
+	      buffer.keys[ORDER-1] = key_input;
+	      buffer.child[ORDER] = child_right_input;
+	      flag++;
+	  }
+	  else if (flag == 0) {
+	      // comparo a chave a ser inserida com a pagina atual
+	      if (key_input > page->keys[i]) {
+		    buffer.keys[i] = page->keys[i];
+		    buffer.child[i+1] = page->child[i+1];
+	      } 
+	      else
+	      {
+		    buffer.keys[i] = key_input;
+		    buffer.child[i+1] = child_right_input;
+		    flag++;
+	      }
+	  } else {
+	      buffer.keys[i] = page->keys[i-1];
+	      buffer.child[i+1] = page->keys[i];
+	  }
+    }
+    
+    // aloco nova pagina na RAM
+    allocPage(new_page);
+    // movimento ponteiro para o final do arquivo
+    fseek(bTreeFile, 0L, SEEK_END);
+    i = ftell(bTreeFile);
+    
+    // chave promovida esta na posicao central do buffer
+    *key_promoted = buffer.keys[ORDER/2];
+    // o no filho promovido sera a nova pagina criada
+    *child_promoted = i;
+    
+    // reseta a pagina antiga, para copiar os valores do buffer
+    resetPage(page);
+    
+    // o numero de elementos na pagina antiga
+    page->nKeys = ORDER/2;
+    
+    // numero de elementos na pagina recem-criada (menos a chave promovida)
+    (*new_page)->nKeys = (ORDER - page->nKeys - 1);
+    
+    // copia metade dos elementos para a pagina antiga
+    for (i = 0; i < (ORDER/2); i++) {
+	page->keys[i] = buffer.keys[i];
+	page->child[i] = buffer.child[i];
+    }
+    page->child[i] = buffer.child[i];
+    
+    // copia a outra metada (menos a chave promovida)
+    //  para a nova pagina. Nao inclui a posicao 'ORDER/2'
+    //  pois essa contem a chave a ser promovida, e armazenada
+    //  na variavel de retorno 'key_promoted'
+    for (i = ((ORDER/2)+1), j = 0; i < ORDER; i++, j++) {
+	(*new_page)->keys[j] = buffer.keys[i]; 
+	(*new_page)->child[j] = buffer.child[i]; 
+    }
+    (*new_page)->child[j] = buffer.child[i]; 
+}

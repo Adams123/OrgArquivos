@@ -1,0 +1,106 @@
+correcao
+====================================================
+Aluno: 
+4321350-94
+Files 06.out and my06.out differ
+Files 09.out and my09.out differ
+====================================================
+Aluno: 
+6791943-94
+Files 01.out and my01.out differ
+Files 02.out and my02.out differ
+Files 03.out and my03.out differ
+Files 04.out and my04.out differ
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7152819-94
+Files 01.out and my01.out differ
+Files 02.out and my02.out differ
+Files 03.out and my03.out differ
+Files 04.out and my04.out differ
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7153362-94
+Files 06.out and my06.out differ
+Files 09.out and my09.out differ
+====================================================
+Aluno: 
+7161591-94
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Erro ao abrir arquivo.huff!!!
+make: *** [run] Error 1
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+make: *** [run] Segmentation fault (core dumped)
+Files 09.out and my09.out differ
+Erro ao abrir arquivo.huff!!!
+make: *** [run] Error 1
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7580817-94
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7694220-94
+Files 01.out and my01.out differ
+Files 03.out and my03.out differ
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7972630-94
+====================================================
+Aluno: 
+7986729-94
+Files 06.out and my06.out differ
+Files 09.out and my09.out differ
+====================================================
+Aluno: 
+7986796-94
+gcc -I./ run.c huff.c main.c -o ./trab
+Files 01.out and my01.out differ
+Files 02.out and my02.out differ
+Files 03.out and my03.out differ
+Files 04.out and my04.out differ
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ
+====================================================
+Aluno: 
+7986841-94
+Files 01.out and my01.out differ
+Files 02.out and my02.out differ
+Files 03.out and my03.out differ
+Files 04.out and my04.out differ
+Files 05.out and my05.out differ
+Files 06.out and my06.out differ
+Files 07.out and my07.out differ
+Files 08.out and my08.out differ
+Files 09.out and my09.out differ
+Files 10.out and my10.out differ

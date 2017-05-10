@@ -1,0 +1,7 @@
+dump data.db
+dump prim.idx
+dump universidade.idx
+dump modalidade.idx
+dump modalidadeListaInvertida.idx
+dump universidadeListaInvertida.idx
+sair

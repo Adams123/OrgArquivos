@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1364668351 source:d:\dropbox\public\faculdade\org arquivos\teste\teste2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tad.h"
+
+1364586367 d:\dropbox\public\faculdade\org arquivos\teste\teste2\t1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364586374 source:d:\dropbox\public\faculdade\org arquivos\teste\teste2\t1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"T1.h"
+
+1364586367 d:\dropbox\public\faculdade\org arquivos\teste\teste2\tad.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1364669677 source:d:\dropbox\public\faculdade\org arquivos\teste\teste2\tad.c
+	"tad.h"
+

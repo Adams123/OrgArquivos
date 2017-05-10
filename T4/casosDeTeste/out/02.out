@@ -1,0 +1,8 @@
+Conflito de chave primaria. Registro nao inserido!
+Conflito de chave primaria. Registro nao inserido!
+Conflito de chave primaria. Registro nao inserido!
+Conflito de chave primaria. Registro nao inserido!
+08977308608|Felipe_Duarte                 |6426831   |CAASO                         |Basquete_Quadra               |08977308601|Karina_Emboaba                |6784034   |CAASO                         |Volei_Quadra                  |08977308603|Michele_Nahas                 |6784035   |CAASO                         |Xadrez                        |08977308605|Carolina_Tanimoto             |6784653   |UFSCar                        |Volei_Quadra                  |
+Altura:  1 | num. Chaves:  1 | chaves = [ 08977308605 ]
+Altura:  2 | num. Chaves:  2 | chaves = [ 08977308601 08977308603 ]
+Altura:  2 | num. Chaves:  1 | chaves = [ 08977308608 ]

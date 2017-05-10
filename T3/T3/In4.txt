@@ -1,0 +1,10 @@
+remover 08977308608
+buscar universidade = CAASO
+buscar modalidade = Volei_Quadra e universidade = CAASO
+buscar modalidade = Basquete_Quadra ou universidade = UFSCar
+dump data.db
+dump universidade.idx
+dump modalidade.idx
+dump modalidadeListaInvertida.idx
+dump universidadeListaInvertida.idx
+sair

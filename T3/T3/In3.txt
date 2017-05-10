@@ -1,0 +1,4 @@
+buscar universidade = CAASO
+buscar modalidade = Volei_Quadra e universidade = CAASO
+buscar modalidade = Basquete_Quadra ou universidade = UFSCar
+sair

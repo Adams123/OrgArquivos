@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1372568781 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/btree.c
+	"btree.h"
+	"btree.h"
+	"btree.h"
+
+1372440348 
+
+1372568735 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/btree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372568104 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"btree.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"btree.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"btree.h"
+
+1372568100 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/prim.c
+	"prim.h"
+	"prim.h"
+	"prim.h"
+	"btree.h"
+
+1372440348 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/prim.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372568781 source:d:\dropbox\public\faculdade\org arquivos\t4\arvoreb\btree.c
+	"btree.h"
+
+1372568735 d:\dropbox\public\faculdade\org arquivos\t4\arvoreb\btree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372525560 source:d:\dropbox\public\faculdade\org arquivos\t4\arvoreb\prim.c
+	"prim.h"
+
+1372440348 d:\dropbox\public\faculdade\org arquivos\t4\arvoreb\prim.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372528668 source:d:\dropbox\public\faculdade\org arquivos\t4\arvoreb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"btree.h"
+
+1372636192 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/btree.c
+	"btree.h"
+
+1372634192 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/btree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372636192 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/prim.c
+	"prim.h"
+	"btree.h"
+
+1372631925 /home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/prim.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372635208 source:/home/adams/Dropbox/Public/Faculdade/Org Arquivos/T4/arvoreB/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"btree.h"
+	"prim.h"
+
